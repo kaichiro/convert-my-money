@@ -4,7 +4,8 @@
   "description": "Projeto do curso FullStack Master DevPleno - conversor de moedas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index.js"
   },
   "keywords": [
     "convert",
@@ -15,5 +16,8 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
   }
 }
