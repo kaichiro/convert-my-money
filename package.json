@@ -14,10 +14,14 @@
   "author": "Kaichiro Fukuda",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "ejs": "^2.6.1",
     "express": "^4.16.4"
   },
   "devDependencies": {
     "jest": "^24.7.1"
+  },
+  "jest": {
+    "collectCoverage": true
   }
 }
