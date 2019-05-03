@@ -41,6 +41,14 @@ node index.js
 
 ![](./video/system.gif)
 
+---
+
+* Cobertura de teste (utilizando jest)
+
+![](./video/test.cover.gif)
+
+---
+
 Acesse este link [http://localhost:3000](http://localhost:3000) para navegar até a aplicação.
 
 ## Obs.:
